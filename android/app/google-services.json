@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423284958882",
+    "project_id": "crashlytics-krutik-demo",
+    "storage_bucket": "crashlytics-krutik-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423284958882:android:6724b5fe304f61f90c59fb",
+        "android_client_info": {
+          "package_name": "com.example.crashlytics_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423284958882-hp01v38216jhkmsnbpt2vkun64d0tfjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSijwaA41Cg6XvqGrk70OC35xpJNIqrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423284958882-hp01v38216jhkmsnbpt2vkun64d0tfjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
